@@ -1,0 +1,9 @@
+# fips project yml file
+---
+
+# external dependencies
+imports:
+    sokol:
+        git: https://github.com/floooh/sokol
+    #sokol_gp:
+    #    git: https://github.com/edubart/sokol_gp
