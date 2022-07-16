@@ -29,8 +29,6 @@ endif()
 include_directories(libs)
 fips_ide_group("Libs")
 add_subdirectory(libs)
-fips_ide_group("DLLs")
-add_subdirectory(src)
 fips_finish()
 
 

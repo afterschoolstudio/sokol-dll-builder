@@ -1,4 +1,1 @@
-fips-hello-world
-================
-
-Test project for fips build system.
+builds a sokol dll from sokol libs
