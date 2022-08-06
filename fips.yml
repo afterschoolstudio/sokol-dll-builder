@@ -5,5 +5,5 @@
 imports:
     sokol:
         git: https://github.com/floooh/sokol
-    #sokol_gp:
-    #    git: https://github.com/edubart/sokol_gp
+    fips-sokol_gp:
+       git: https://github.com/afterschoolstudio/fips-sokol_gp
